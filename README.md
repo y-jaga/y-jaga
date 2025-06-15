@@ -6,9 +6,9 @@
 
 ### 🚀 Projects
 
-- 🔗 [**FilmShelf**](https://github.com/y-jaga/Film-Shelf) – Movie curation app where users can search for movies using the 3rd party API TMDB API.  
-- 🔗 [**File Crafter Edge**](https://github.com/y-jaga/File-Crafter-Edge) – API-based Document Management System used Cloudinary and Multer.  
-- 🔗 [**Chat Application**](https://github.com/y-jaga/chat_application_socket.io) - Real time chat application using Socket.io.
+- 🔗 [**File Crafter X**](https://github.com/y-jaga/FileCrafterX) – API-based Document Management System used Cloudinary and Multer.  
+- 🔗 [**FilmIQ**](https://github.com/y-jaga/FilmIQ) – Movie curation app where users can search for movies using the 3rd party API TMDB API.  
+- 🔗 [**Real Time Chat Application**](https://github.com/y-jaga/chat_application_socket.io) - Real time chat application using Socket.io.
 
 ---
 
