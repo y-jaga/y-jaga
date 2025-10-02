@@ -15,10 +15,10 @@
 ### 🛠️ Tech Stack
 
 **Programming:** Core Java, JavaScript (ES6+)  
-**Backend:** Node.js, Express.js, REST APIs, Authentication (JWT, OAuth)  
-**Database:** SQL, PostgreSQL, MongoDB, SQLite, Sequelize ORM, Mongoose ODM  
+**Backend:** Node.js, Express.js, REST APIs, Authentication (JWT, OAuth2.0)  
+**Database:** PostgreSQL, MongoDB, SQLite, Sequelize ORM, Mongoose ODM  
 **Testing:** Jest, Supertest  
-**Tools & Deployment:** GitHub, Postman, Vercel, CI/CD  
+**Tools & Deployment:** GitHub, Postman, AWS(S3, EC2, VPC), CI/CD(GitHub Actions)  
 
 ---
 
