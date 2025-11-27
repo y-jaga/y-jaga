@@ -14,11 +14,12 @@
 
 ### 🛠️ Tech Stack
 
-**Programming:** Core Java, JavaScript (ES6+)  
-**Backend:** Node.js, Express.js, REST APIs, Authentication (JWT, OAuth2.0)  
-**Database:** PostgreSQL, MongoDB, SQLite, Sequelize ORM, Mongoose ODM  
-**Testing:** Jest, Supertest  
-**Tools & Deployment:** GitHub, Postman, AWS(S3, EC2, VPC), CI/CD(GitHub Actions)  
+**Programming:** JavaScript (ES6+), Node.js, Express.js
+**Authentication:** JWT, OAuth 2.0 (GitHub, Google)
+**Databases & ORMs:** PostgreSQL, MongoDB, SQLite, Sequelize, Mongoose 
+**Cloud/DevOps:**  Docker, GitHub Actions, AWS (S3, EC2, VPC, Lambda) 
+**Testing:** Jest, Supertest
+**Tools:** Redis, Splunk, Postman, Git
 
 ---
 
