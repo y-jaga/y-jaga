@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Yogesh!
 
-🎯 I'm a passionate **Backend Developer** skilled in building robust REST APIs and server-side applications using **Node.js** and **JavaScript**.
+🎯 I'm a passionate **Backend Developer** skilled in building robust REST APIs and server-side applications using **Node.js/Express.js** and **JavaScript/TypeScript**.
 
 ---
 
